@@ -4,5 +4,6 @@ public class gitDemo {
         System.out.println("你好，git");
         System.out.println("gittttttt");
         System.out.println("git4");
+        System.out.println("hot-fix test");
     }
 }
