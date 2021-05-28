@@ -3,5 +3,6 @@ public class gitDemo {
         System.out.println("hello git");
         System.out.println("你好，git");
         System.out.println("gittttttt");
+        System.out.println("git4");
     }
 }
